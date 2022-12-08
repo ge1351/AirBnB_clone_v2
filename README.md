@@ -21,7 +21,7 @@ As you navigate this code base, it is great to note the following concepts, whil
 - What is **kwargs and how to use it
 - How to handle named arguments in a function
 
-## Files and Directories
+## Files and Directorie
 - ```models``` directory will contain all classes used for the entire project. A class, called “model” in a OOP project is the representation of an object/instance.
 - ```tests``` directory will contain all unit tests.
 - ```console.py``` file is the entry point of our command interpreter.
